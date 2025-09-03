@@ -1,5 +1,3 @@
-Got it 👍 — here’s a polished `README.md` draft tailored for your repo:
-
 # Minecraft Server Auto-Updater
 
 A Node.js script that automatically updates a [Fabric](https://fabricmc.net/) Minecraft server and its mods.  
